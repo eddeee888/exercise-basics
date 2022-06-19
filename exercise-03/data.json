@@ -1,0 +1,132 @@
+[
+  {
+    "id": "001",
+    "name": "Bulbasaur",
+    "types": ["Grass", "Poison"],
+    "stats": {
+      "hp": 45,
+      "attack": 49,
+      "defense": 49,
+      "specialAttack": 65,
+      "specialDefense": 65,
+      "speed": 45
+    }
+  },
+  {
+    "id": "002",
+    "name": "Ivysaur",
+    "types": ["Grass", "Poison"],
+    "stats": {
+      "hp": 60,
+      "attack": 62,
+      "defense": 63,
+      "specialAttack": 80,
+      "specialDefense": 80,
+      "speed": 60
+    }
+  },
+  {
+    "id": "003",
+    "name": "Venusaur",
+    "types": ["Grass", "Poison"],
+    "stats": {
+      "hp": 80,
+      "attack": 82,
+      "defense": 83,
+      "specialAttack": 100,
+      "specialDefense": 100,
+      "speed": 80
+    }
+  },
+  {
+    "id": "004",
+    "name": "Charmander",
+    "types": ["Fire"],
+    "stats": {
+      "hp": 39,
+      "attack": 52,
+      "defense": 43,
+      "specialAttack": 60,
+      "specialDefense": 50,
+      "speed": 65
+    }
+  },
+  {
+    "id": "005",
+    "name": "Charmeleon",
+    "types": ["Fire"],
+    "stats": {
+      "hp": 58,
+      "attack": 64,
+      "defense": 58,
+      "specialAttack": 80,
+      "specialDefense": 65,
+      "speed": 80
+    }
+  },
+  {
+    "id": "006",
+    "name": "Charizard",
+    "types": ["Fire", "Flying"],
+    "stats": {
+      "hp": 78,
+      "attack": 84,
+      "defense": 78,
+      "specialAttack": 109,
+      "specialDefense": 85,
+      "speed": 100
+    }
+  },
+  {
+    "id": "007",
+    "name": "Squirtle",
+    "types": ["Water"],
+    "stats": {
+      "hp": 44,
+      "attack": 48,
+      "defense": 65,
+      "specialAttack": 50,
+      "specialDefense": 64,
+      "speed": 43
+    }
+  },
+  {
+    "id": "008",
+    "name": "Wartortle",
+    "types": ["Water"],
+    "stats": {
+      "hp": 59,
+      "attack": 63,
+      "defense": 80,
+      "specialAttack": 65,
+      "specialDefense": 80,
+      "speed": 58
+    }
+  },
+  {
+    "id": "009",
+    "name": "Blastoise",
+    "types": ["Water"],
+    "stats": {
+      "hp": 79,
+      "attack": 83,
+      "defense": 100,
+      "specialAttack": 85,
+      "specialDefense": 105,
+      "speed": 78
+    }
+  },
+  {
+    "id": "010",
+    "name": "Caterpie",
+    "types": ["Bug"],
+    "stats": {
+      "hp": 45,
+      "attack": 30,
+      "defense": 35,
+      "specialAttack": 20,
+      "specialDefense": 20,
+      "speed": 45
+    }
+  }
+]
