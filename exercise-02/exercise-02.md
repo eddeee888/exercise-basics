@@ -1,4 +1,4 @@
-# Exercise 02 - Function basics - For loop
+# Exercise 02 - Basics - For loop
 
 ## Aim
 

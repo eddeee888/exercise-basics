@@ -1,4 +1,4 @@
-# Exercise 01 - Function basics
+# Exercise 01 - Basics - Function
 
 ## Aim
 
